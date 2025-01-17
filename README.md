@@ -1,5 +1,5 @@
 # Cat Hub V1.3
 A New upcoming Scripthub with tons of games!
 Status: 🟢 Working!!
-- Scripts We have so far!
-- | ⬤ Tower of Hell Scripts | ⬤ Slap Battles Scripts | ⬤ Bedwars Scripts | ⬤ Blox Fruit Scripts | ⬤ Dahood Scripts | ⬤ Blade Ball Scripts | ⬤ Murderers VS Sherrif Scripts | ⬤ MM2 Scripts | ⬤ Pets Go Scripts |
+- Scripts in this update We have so far!
+- | ⬤ NDS Scripts | ⬤ Doors Scripts | ⬤ Jailbreak Scripts | ⬤ Prison Life Scripts | ⬤ Rivals Scripts
