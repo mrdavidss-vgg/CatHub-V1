@@ -1,4 +1,4 @@
-# Catware V1.2
+# Cat Hub V1.3
 A New upcoming Scripthub with tons of games!
 Status: 🟢 Working!!
 - Scripts We have so far!
